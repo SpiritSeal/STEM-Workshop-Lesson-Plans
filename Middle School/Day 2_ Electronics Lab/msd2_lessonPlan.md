@@ -16,7 +16,7 @@
 1. [Simple LED Circuit](#project-1-simple-led-circuit)
 2. [Variable Brightness LED Circuit](#project-2-variable-brightness-led-circuit)
 3. [Simple Motor circuit](#project-3-simple-motor-circuit)
-4. [Variable Motor circuit](#project-4-variable-motor-circuithttpsyoutubeqmeenqruvzst13)
+4. [Variable Speed Motor circuit](#project-4-variable-motor-circuithttpsyoutubeqmeenqruvzst13)
 
 ### `Time-permitting Challenges`
 
