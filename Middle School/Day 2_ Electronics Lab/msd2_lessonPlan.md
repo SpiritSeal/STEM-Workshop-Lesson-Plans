@@ -24,9 +24,9 @@
 
 ## Agenda
 
-1. Teach participants how **Breadboards** function and how they can be used to build circuits
-2. Teach participants how **Batteries** function and how they can be used to induce a current into a circuit
-3. Teach students how **Resistors** function and how they can be used to reduce the current flowing through a circuit
+1. Teach participants how **Batteries** function and how they can be used to induce a current into a circuit
+2. Teach students how **Resistors** function and how they can be used to reduce the current flowing through a circuit
+3. Teach participants how **Breadboards** function and how they can be used to build circuits
     - Tell students about the dangers of creating a short-circuit: a circuit without any resistive elements
 4. Teach participants how **LEDs** function, and how they can utilize the current flowing through them to produce light
     - Show students the dangers of connecting an LED to a powered circuit without a resistor in series
