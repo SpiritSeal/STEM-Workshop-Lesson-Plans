@@ -1,4 +1,4 @@
-# Middle School Day 1: Electronics Workshop
+# Middle School Day 1: Computer Science and Safety
 
 ## *Goal: Foster interest in participants to explore topics in the field of Computer Science.*
 
@@ -17,9 +17,10 @@
 2. [Staying Safe Online](#staying-safe-online--nettiquitte)
 4. [Hour of Code](#hour-of-code)
 
-### `Time-permitting Topics`
+### `Time-permitting Activities`
 
 1. [Review Quiz](#review-quiz)
+2. [Parts of a Computer](#parts-of-a-computer)
 
 ## Agenda
 
@@ -49,8 +50,24 @@
 
 2. If students finish their chosen exercise early, have them either pick a second one to complete or encourage them to explore a text-based language like js via the Khan Academy online js course or this [interpret python game](https://compute-it.toxicode.fr/?hour-of-code&progression=python).
 
+3. Demo/ Suggest the [Star Wars one from Code.org](https://code.org/starwars) if someone is particularly indecisive.
+
 ### Review Quiz
 
 > 20+ minutes
 
 Exercise where students can solve questions based on the material covered previously during the session. All students will earn a cookie, but those who perform especially well on the whiteboard jepordy-style quiz can recieve extra snacks!
+
+### Parts of a Computer
+
+> 20 minutes
+
+1. Show and explain the function of different common Computer components, including:
+    - Motherboard
+    - CPU
+    - GPU?
+    - RAM
+    - SSD/ HDD
+        - Also explain the differences between an SSD and HDD
+    - Display
+    - HID
