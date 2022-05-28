@@ -27,14 +27,6 @@
 
 1. Briefly review topics from the Day 1 session with a short quiz
 
-### Hour of Code
-
-> 60 minutes
-
-1. Give Students options for which Hour of Code exercises from [HourOfCode.org](https://hourofcode.com/us/learn) they would like to do and give them 60 minutes to complete them
-
-2. If students finish their chosen exercise early, have them either pick a second one to complete or encourage them to explore a text-based language like js via the Khan Academy online js course or this [interpret python game](https://compute-it.toxicode.fr/?hour-of-code&progression=python).
-
 ### picoCTF
 
 1. Introductory Level cybersecurity challenges delivered in a fun and rewarding manner
