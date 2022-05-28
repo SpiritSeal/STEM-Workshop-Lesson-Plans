@@ -1,4 +1,4 @@
-# High School Day 1: Computer Science and Safety
+# High School Day 1: Computer Science and Internet Safety
 
 ## *Goal: Foster interest in participants to explore topics in the field of Computer Science.*
 

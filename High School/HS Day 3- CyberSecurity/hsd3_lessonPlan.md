@@ -17,7 +17,7 @@
 
 ### `Time-permitting Topics`
 
-1. [picoCTF]()
+1. [picoCTF](#picoctf)
 
 ## Agenda
 

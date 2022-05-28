@@ -15,11 +15,9 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"Create a Lesson Plan Template": {
+	"comment": {
 		"scope": "markdown",
 		"prefix": "lesson plan",
-		"body": [
-			
-		]
+		"body": ["[//]: # ($1)"]
 	}
 }
