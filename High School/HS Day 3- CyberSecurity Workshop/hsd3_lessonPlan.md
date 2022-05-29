@@ -13,7 +13,7 @@
 
 ## Agenda Overview
 
-1. [Staying Safe Online + Nettiquitte recap](#staying-safe-online--nettiquitte)
+1. [Staying Safe Online + Netiquette recap](#staying-safe-online--nettiquitte)
 
 ### `Time-permitting Topics`
 
@@ -21,7 +21,7 @@
 
 ## Agenda
 
-### Staying Safe Online + Nettiquitte recap
+### Staying Safe Online + Netiquette recap
 
 > 20 minutes
 

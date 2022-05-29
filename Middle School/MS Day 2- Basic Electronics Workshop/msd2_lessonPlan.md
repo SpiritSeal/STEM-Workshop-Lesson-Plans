@@ -9,7 +9,7 @@
 
 ## Resources and Materials
 
-> **Note:** If attempting to use this specific module as a template for running a similar workshop, it is recomended that one checks component sources for prebuilt kits within the group's budget and structure the session around the parts avaliable in the purchased kits, as prebuilt kits tend to be significantly less expensive than purchasing individual components separately, but can vary in terms of included contents with time. Furthermore, utilizing kits fundamentally decreases the amount of time needed to order, organize, and otherwise prepare materials for such activities.
+> **Note:** If attempting to use this specific module as a template for running a similar workshop, it is recommended that one checks component sources for prebuilt kits within the group's budget and structure the session around the parts available in the purchased kits, as prebuilt kits tend to be significantly less expensive than purchasing individual components separately, but can vary in terms of included contents with time. Furthermore, utilizing kits fundamentally decreases the amount of time needed to order, organize, and otherwise prepare materials for such activities.
 
 [//]: # (TODO)
 
@@ -75,6 +75,6 @@
 
 ### **Challenge: Parallel Potentiometer Variable Brightness LED Circuit**
 
-- Have students try and apply their taught understanding of how Voltage and Current behaves in Series and Parallel to design a circuit such that increasing the Resistance of the Potentiometer increases the brightenss of the LEDs. Make sure that students successfully draw circuit diagram before letting them build it.
+- Have students try and apply their taught understanding of how Voltage and Current behaves in Series and Parallel to design a circuit such that increasing the Resistance of the Potentiometer increases the brightness of the LEDs. Make sure that students successfully draw circuit diagram before letting them build it.
 
 ---

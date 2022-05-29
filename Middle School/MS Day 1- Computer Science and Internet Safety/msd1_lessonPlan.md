@@ -34,7 +34,7 @@
 
 1. Brief engaging Slideshow Presentation with Active Engagement describing how computers originated and how we got to where we are today with modern technology.
 
-### Staying Safe Online + Nettiquitte
+### Staying Safe Online + Netiquette
 
 > 20 minutes
 

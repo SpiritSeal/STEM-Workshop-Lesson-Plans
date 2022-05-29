@@ -5,12 +5,12 @@
 ## Learning Objectives
 
 - Introduce Students to topics in Electronics and general Circuit-Building concepts
-- Introduce Students to basic Arduino Microcontroller programming and how such devices can be used to create programatic and functional systems
+- Introduce Students to basic Arduino Microcontroller programming and how such devices can be used to create programmatic and functional systems
 - Teach Students how various electronics components function and how they can be used to build circuits
 
 ## Resources and Materials
 
-> **Note:** If attempting to use this specific module as a template for running a similar workshop, it is recomended that one checks component sources for prebuilt kits within the group's budget and structure the session around the parts avaliable in the purchased kits, as prebuilt kits tend to be significantly less expensive than purchasing individual components separately, but can vary in terms of included contents with time. Furthermore, utilizing kits fundamentally decreases the amount of time needed to order, organize, and otherwise prepare materials for such activities.
+> **Note:** If attempting to use this specific module as a template for running a similar workshop, it is recommended that one checks component sources for prebuilt kits within the group's budget and structure the session around the parts available in the purchased kits, as prebuilt kits tend to be significantly less expensive than purchasing individual components separately, but can vary in terms of included contents with time. Furthermore, utilizing kits fundamentally decreases the amount of time needed to order, organize, and otherwise prepare materials for such activities.
 
 [//]: # (TODO)
 
