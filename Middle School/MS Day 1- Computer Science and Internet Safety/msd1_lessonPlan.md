@@ -69,9 +69,10 @@ Exercise where students can solve questions based on the material covered previo
 1. Show and explain the function of different common Computer components, including:
     - Motherboard
     - CPU
-    - GPU?
+    - GPU (if applicable)
     - RAM
     - SSD/ HDD
         - Also explain the differences between an SSD and HDD
     - Display
     - HID
+        - Mice, Keyboards, and other input devices
