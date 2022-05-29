@@ -1,11 +1,10 @@
-# High School Day 2: Basic Electronics Workshop
+# Middle School Day 2: Basic Electronics Workshop
 
 ## *Goal: Foster interest in participants to explore topics in the field of Electronics.*
 
 ## Learning Objectives
 
 - Introduce Students to topics in Electronics and general Circuit-Building concepts
-- Introduce Students to basic Arduino Microcontroller programming and how such devices can be used to create programatic and functional systems
 - Teach Students how various electronics components function and how they can be used to build circuits
 
 ## Resources and Materials
@@ -17,15 +16,17 @@
 ## Projects Overview
 
 1. [Simple LED Circuit](#project-1-simple-led-circuit)
-2. []()
-3. []()
-4. []()
+2. [Variable Brightness LED Circuit](#project-2-variable-brightness-led-circuit)
+3. [Simple Motor Circuit](#project-3-simple-motor-circuit)
+4. [Variable Speed Motor Circuit](#project-4-variable-motor-circuithttpsyoutubeqmeenqruvzst13)
 
 ### `Time-permitting Challenges`
 
-1. []()
+1. [Variable Brightness LED using Potentiometer in Parallel](#challenge-parallel-potentiometer-variable-brightness-led-circuit)
 
 ## Agenda
+
+---
 
 1. Teach participants how **Batteries** function and how they can be used to induce a current into a circuit
 2. Teach students how **Resistors** function and how they can be used to reduce the current flowing through a circuit
@@ -36,7 +37,9 @@
 
 ---
 
-### **Project 1: Simple LED Circuit**
+### [**Project 1: Simple LED Circuit**](https://tinyurl.com/2haxaaey)
+
+- Students will be guided through building a basic Battery, Resistor, LED circuit on a Breadboard.
 
 ---
 
@@ -44,7 +47,7 @@
 
 ---
 
-### **Project 2: Variable Brightness LED Circuit**
+### [**Project 2: Variable Brightness LED Circuit**](https://tinyurl.com/2kfuqybn)
 
 ---
 
@@ -52,15 +55,17 @@
 
 ---
 
-### **Project 3: Simple Motor Circuit**
+[//]: # (Come back to variable Motor Circuit w/ working schema)
+
+### [**Project 3: Simple Motor Circuit**](https://tinyurl.com/2fthhunr)
 
 ---
 
-7. Teach participants how **MOSFET transistors** function, and how they can control the voltage of a circuit by taking an input from another source
+7. Teach participants how **MOSFET transistors** function, and how they can control the voltage of a circuit by taking an input from another source. *[Editor's Note: I am currently researching into potentially just running the circuit in series without the MOSFET, since we will likely be using low enough Voltages to the point where burning out the Potentiometer will not be a major concern.]*
 
 ---
 
-### **Project 4: Variable Motor Circuit**
+### [**Project 4: Variable Motor Circuit**](https://youtu.be/qmeENqruvZs?t=13)
 
 ---
 
@@ -69,5 +74,7 @@
 ---
 
 ### **Challenge: Parallel Potentiometer Variable Brightness LED Circuit**
+
+- Have students try and apply their taught understanding of how Voltage and Current behaves in Series and Parallel to design a circuit such that increasing the Resistance of the Potentiometer increases the brightenss of the LEDs. Make sure that students successfully draw circuit diagram before letting them build it.
 
 ---

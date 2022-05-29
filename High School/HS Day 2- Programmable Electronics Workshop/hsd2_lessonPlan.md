@@ -1,10 +1,11 @@
-# Middle School Day 2: Programmable Electronics Workshop
+# High School Day 2: Programmable Electronics Workshop
 
 ## *Goal: Foster interest in participants to explore topics in the field of Electronics.*
 
 ## Learning Objectives
 
 - Introduce Students to topics in Electronics and general Circuit-Building concepts
+- Introduce Students to basic Arduino Microcontroller programming and how such devices can be used to create programatic and functional systems
 - Teach Students how various electronics components function and how they can be used to build circuits
 
 ## Resources and Materials
@@ -15,14 +16,18 @@
 
 ## Projects Overview
 
-1. [Simple LED Circuit](#project-1-simple-led-circuit)
-2. [Variable Brightness LED Circuit](#project-2-variable-brightness-led-circuit)
-3. [Simple Motor Circuit](#project-3-simple-motor-circuit)
-4. [Variable Speed Motor Circuit](#project-4-variable-motor-circuithttpsyoutubeqmeenqruvzst13)
+1. [Serial Monitor Hello World]()
+2. [Simple Builtin LED Circuit]()
+3. [Builtin LED Blink]()
+4. [External LED]()
+5. [Button-Toggle LED]()
+6. [Multiple External LED]()
+7. [Multiple LED Blink]()
 
 ### `Time-permitting Challenges`
 
-1. [Variable Brightness LED using Potentiometer in Parallel](#challenge-parallel-potentiometer-variable-brightness-led-circuit)
+1. [Arduino LED Dice]()
+2. [Binary Increment Counter]()
 
 ## Agenda
 
@@ -59,7 +64,7 @@
 
 ---
 
-### [**Project 4: Variable Motor Circuit**](https://youtu.be/qmeENqruvZs?t=13)
+### **Project 4: Variable Motor Circuit**
 
 ---
 

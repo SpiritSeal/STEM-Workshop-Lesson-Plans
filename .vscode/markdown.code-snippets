@@ -17,7 +17,7 @@
 	// }
 	"comment": {
 		"scope": "markdown",
-		"prefix": "lesson plan",
+		"prefix": "comment",
 		"body": ["[//]: # ($1)"]
 	}
 }
