@@ -9,7 +9,11 @@
 
 ## Resources and Materials
 
-[//]: # (TODO)
+- Student Computers
+- Computer to disassemble
+- *TODO:* Slideshow
+- Mini-Whiteboards
+- Dry-Erase Markers
 
 ## Agenda Overview
 
@@ -56,7 +60,7 @@
 
 > 20+ minutes
 
-Exercise where students can solve questions based on the material covered previously during the session. All students will earn a cookie, but those who perform especially well on the whiteboard jepordy-style quiz can recieve extra snacks!
+Exercise where students can solve questions based on the material covered previously during the session. All students will earn a cookie, but those who perform especially well on the whiteboard jeopardy-style quiz can receive extra snacks!
 
 ### Parts of a Computer
 

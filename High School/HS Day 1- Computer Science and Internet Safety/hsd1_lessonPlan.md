@@ -10,12 +10,16 @@
 
 ## Resources and Materials
 
-[//]: # (TODO)
+- Student Computers
+- Computer to disassemble
+- *TODO:* Slideshow
+- Mini-Whiteboards
+- Dry-Erase Markers
 
 ## Agenda Overview
 
 1. [Brief History of Computers](#brief-history-of-computers)
-2. [Staying Safe Online](#staying-safe-online--nettiquitte)
+2. [Staying Safe Online](#netiquette)
 3. [Parts of a Computer](#parts-of-a-computer)
 4. [Hour of Code](#hour-of-code)
 
@@ -31,7 +35,7 @@
 
 1. Brief engaging Slideshow Presentation with Active Engagement describing how computers originated and how we got to where we are today with modern technology.
 
-### Staying Safe Online + Nettiquitte
+### netiquette
 
 > 20 minutes
 
@@ -71,4 +75,4 @@
 
 > 20+ minutes
 
-Exercise where students can solve questions based on the material covered previously during the session. All students will earn a cookie, but those who perform especially well on the whiteboard jepordy-style quiz can recieve extra snacks!
+Exercise where students can solve questions based on the material covered previously during the session. All students will earn a cookie, but those who perform especially well on the whiteboard jeopardy-style quiz can receive extra snacks!
