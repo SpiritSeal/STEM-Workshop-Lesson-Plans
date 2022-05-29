@@ -23,17 +23,17 @@
 
 ## Projects Overview
 
-1. [Serial Monitor Hello World]()
-2. [Builtin LED Blink]()
-3. [External LED]()
-4. [Button-Toggle LED]()
-5. [Multiple External LED]()
-6. [Multiple LED Blink]()
+1. [Serial Monitor Hello World](#project-1-serial-monitor-hello-worldhttpsarduinogetstartedcomtutorialsarduino-hello-world)
+2. [Builtin LED Blink](#project-2-builtin-led-blinkhttpswwwarduinoccentutorialbuiltinexamplesblink)
+3. [External LED](#project-3-external-led-blinkhttpswwwarduinoccentutorialbuiltinexamplesblink)
+4. [Button-Toggle LED](#project-4-button-toggle-ledhttpsarduinogetstartedcomtutorialsarduino-button-toggle-led)
+5. [Multiple External LED](#project-5-multiple-external-led)
+6. [Multiple LED Blink](#project-6-multiple-led-blink)
 
 ### `Time-permitting Challenges`
 
-1. [Arduino LED Dice]()
-2. [Binary Increment Counter]()
+1. [Arduino LED Dice](#challenge-1-arduino-led-dicehttpscreatearduinoccprojecthubevdsled-dice-885cf1)
+2. [Binary Counter](#challenge-2-binary-counterhttpscreatearduinoccprojecthubmadhurbajpaibinary-counter-using-leds-2089d9)
 
 ## Agenda
 
@@ -169,18 +169,31 @@ void loop() {
 }
 ```
 
----
-
-### **Multiple External LED**
+11. Explain how multiple external LEDs can be used at once by simply defining multiple GPIO pins and repeating the digitalWrite code as needed with those new pins.
 
 ---
 
-### **Multiple LED Blink**
+### **Project 5: Multiple External LED**
+
+> TODO: Code, Schematics, and Wiring Diagram
 
 ---
 
-### **Arduino LED Dice**
+### **Project 6: Multiple LED Blink**
+
+---
+---
+
+> ### The following are bonus challenges ideas that students can attempt to design and build with the knowledge they have previously accumulated during the workshop.
 
 ---
 
-### **Binary Increment Counter**
+### [**Challenge 1: Arduino LED Dice**](https://create.arduino.cc/projecthub/EvdS/led-dice-885cf1)
+
+---
+
+### [**Challenge 2: Binary Counter**](https://create.arduino.cc/projecthub/Madhur_Bajpai/binary-counter-using-leds-2089d9)
+
+---
+
+Note: All copied code, including examples that have been modified, are in the public domain. The original sources have been linked to in the headers of the sections that they appear in.
