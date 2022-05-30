@@ -41,6 +41,17 @@
 
 > 30 minutes
 
+1. Introduce Students to the topic of Open Source Intelligence (OSINT), the foundation of many Cyber Security Operations.
+
+2. Have the students attempt the following problems (WIP):
+
+    1. Who was president of the United States in 1940?
+
+    2. What was the year that the security bug known as "Shell Shock" was discovered?
+
+    3. A suspect was seen entering the below building. What are the coordinates (in Latitude, Longitude) of their approximate location?
+    ![Picture of S_____ O____ H____](image/hsd3_lessonPlan/1653879529813.png)
+
 ---
 
 ### Topic 3: Intro to Cryptography
@@ -50,6 +61,26 @@
 1. Introduce students to picoCTF
 
 2. picoCTF: [Obedient Cat](https://play.picoctf.org/practice/challenge/147?page=1&solved=0)
+
+3. Introduce ROT13, explain how it functions, then do an example by hand on the whiteboard/ on the slideshow.
+   - Note: Make sure to describe a very cheesy scenario around the problem to increase engagement.
+
+4. picoCTF: [13](https://play.picoctf.org/practice/challenge/62?category=2&page=1&search=) (Encourage students to find an online solver to solve the problem.)
+
+5. Introduce students to [CyberChef](https://gchq.github.io/CyberChef/) and show how it can be used to easily test and reverse similar cryptographic algorithms.
+
+6. Have students attempt the following picoCTF problems:
+    - [Mod 26](https://play.picoctf.org/practice/challenge/144?page=1&solved=0) | Rot 13
+    - [caesar](https://play.picoctf.org/practice/challenge/64?category=2&page=1&search=) | Caesar Cipher
+    - [The Numbers](https://play.picoctf.org/practice/challenge/68?category=2&page=1&search=) | Ascii numbers to text
+    - [Lets Warm Up](https://play.picoctf.org/practice/challenge/22) | Hex number to text
+    - [2Warm](https://play.picoctf.org/practice/challenge/86?category=5&page=1) | Convert Base 10 to Base 2
+    - [what's a net cat?](https://play.picoctf.org/practice/challenge/34) | Connect with `netcat`, 
+    - [Nice netcat...](https://play.picoctf.org/practice/challenge/156?page=1&solved=0) | `netcat` + Ascii numbers to text
+
+7. Provide the following resources while students solve the above problems:
+    - [Ascii table](https://www.asciitable.com/asciifull.gif)
+    ![Image of Ascii table](https://www.asciitable.com/asciifull.gif)
 
 ---
 
