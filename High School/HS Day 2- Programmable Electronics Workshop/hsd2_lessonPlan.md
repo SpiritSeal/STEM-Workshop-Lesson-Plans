@@ -21,6 +21,13 @@
 - Paper
 - Writing Utensils (Pencils)
 
+## Setup
+
+1. Install the Arduino IDE on all Student computers
+    - Test for a successful "Blink" program upload from all of the Computers
+2. Test that all computers are able to access <https://edukits.co/code/>
+3. Ensure that there are enough kits for all participants, with additional spare kits equivalent to roughly 10% of the kits required.
+
 ## Projects Overview
 
 1. [Serial Monitor Hello World](#project-1-serial-monitor-hello-worldhttpsarduinogetstartedcomtutorialsarduino-hello-world)
@@ -105,17 +112,17 @@ void loop() {
 
 ### [**Project 3: External LED Blink**](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)
 
-#### Schematic
+#### P3 Schematic
 
 ![Schematic of LED Blink Circuit](image/hsd2_lessonPlan/1653837032396.png)
 
-#### Wiring Diagram
+#### P3 Wiring Diagram
 
 ![Wiring Diagram of LED Blink Circuit](image/hsd2_lessonPlan/1653837089888.png)
 
 ```cpp
 // define the GPIO pin the external LED is connected to
-#define LED_PIN 13
+#define LED_PIN 12
 
 // the setup function runs once when you press reset or power the board
 void setup() {
@@ -135,12 +142,15 @@ void loop() {
 9. Introduce push-button switches and how they can be used to close a circuit so that current can flow through it.
 
 10. Explain how GPIO pins can be used as an input to detect changes in the voltage on its pins.
+    - Also mention that pinMode INPUT_PULLUP should be used instead of regular INPUT because you would otherwise have random input readings while the button is not pressed down.
+    - If someone asks for more information, mention that you can explain it in more detail if there is time after the end of class. [Helpful resource](https://roboticsbackend.com/arduino-input_pullup-pinmode/)
 
 ---
 
 ### [**Project 4: Button-Toggle LED**](https://arduinogetstarted.com/tutorials/arduino-button-toggle-led)
 
 ```cpp
+#define LED_PIN 12
 #define BUTTON_PIN 7 // Arduino pin connected to button's pin
 
 // Variables that will change:
@@ -180,23 +190,108 @@ void loop() {
 
 > TODO: Code, Schematics, and Wiring Diagram
 
+#### P5 Wiring Diagram
+
 ---
 
 ### **Project 6: Multiple LED Blink**
+
+Same Schematic and Wiring as [Project 5](#project-5-multiple-external-led)
+
+```cpp
+// Note: This code was written to be as useful to participants as possible for debugging, under the assumption that participants do not yet know about topics such as arrays or functions. As such, please excuse the immense redundancy this code example displays.
+
+// Initialize the LED Pins on Pins 2-7 (Since pins 0 and 1 are reserved for the USB communication with the computer and cannot be used for this purpose)
+#define LED_PIN_1 2
+#define LED_PIN_2 3
+#define LED_PIN_3 4
+#define LED_PIN_4 5
+#define LED_PIN_5 6
+#define LED_PIN_6 7
+
+// the setup function runs once when you press reset or power the board
+void setup() {
+  Serial.begin(9600);
+  // initialize the digital pins as outputs.
+  pinMode(LED_PIN_1, OUTPUT);
+  pinMode(LED_PIN_2, OUTPUT);
+  pinMode(LED_PIN_3, OUTPUT);
+  pinMode(LED_PIN_4, OUTPUT);
+  pinMode(LED_PIN_5, OUTPUT);
+  pinMode(LED_PIN_6, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED_PIN_1, HIGH);   // turn the LED on (HIGH is the voltage level)
+  Serial.println("1 ON");
+  delay(1000);                       // wait for 1000 milliseconds (1 second)
+  digitalWrite(LED_PIN_1, LOW);    // turn the LED off by making the voltage LOW
+  Serial.println("1 OFF");
+  delay(1000);                       // wait for 1000 milliseconds (1 second)
+
+  digitalWrite(LED_PIN_2, HIGH);   // turn the LED on (HIGH is the voltage level)
+  Serial.println("2 ON");
+  delay(1000);                       // wait for 1000 milliseconds (1 second)
+  digitalWrite(LED_PIN_2, LOW);    // turn the LED off by making the voltage LOW
+  Serial.println("2 OFF");
+  delay(1000);
+
+  digitalWrite(LED_PIN_3, HIGH);   // turn the LED on (HIGH is the voltage level)
+  Serial.println("3 ON");
+  delay(1000);                       // wait for 1000 milliseconds (1 second)
+  digitalWrite(LED_PIN_3, LOW);    // turn the LED off by making the voltage LOW
+  Serial.println("3 OFF");
+  delay(1000);  
+
+  digitalWrite(LED_PIN_4, HIGH);   // turn the LED on (HIGH is the voltage level)
+  Serial.println("4 ON");
+  delay(1000);                       // wait for 1000 milliseconds (1 second)
+  digitalWrite(LED_PIN_4, LOW);    // turn the LED off by making the voltage LOW
+  Serial.println("4 OFF");
+  delay(1000); 
+
+  digitalWrite(LED_PIN_5, HIGH);   // turn the LED on (HIGH is the voltage level)
+  Serial.println("5 ON");
+  delay(1000);                       // wait for 1000 milliseconds (1 second)
+  digitalWrite(LED_PIN_5, LOW);    // turn the LED off by making the voltage LOW
+  Serial.println("5 OFF");
+  delay(1000);         
+
+  digitalWrite(LED_PIN_6, HIGH);   // turn the LED on (HIGH is the voltage level)
+  Serial.println("6 ON");
+  delay(1000);                       // wait for 1000 milliseconds (1 second)
+  digitalWrite(LED_PIN_6, LOW);    // turn the LED off by making the voltage LOW
+  Serial.println("6 OFF");
+  delay(1000);   
+}
+```
 
 ---
 ---
 
 > ### The following are bonus challenges ideas that students can attempt to design and build with the knowledge they have previously accumulated during the workshop.
 
+#### Click on the Challenge Headers to be taken to a brief description of these projects.
+
+##### There are hundreds of ways one could go about implementing each of these challenges, but included below are my renditions of them. I thoroughly expect the participants of this workshop to produce unique versions compared to the ones that are provided here, though the code included here can be helpful to provide hints or otherwise help students debug should they become stuck.
+
 ---
 
 ### [**Challenge 1: Arduino LED Dice**](https://create.arduino.cc/projecthub/EvdS/led-dice-885cf1)
+
+#### TODO: include my own code and circuit diagram for LED Dice
+
+#### C1 uses the same Schematic and Circuit Diagram as [Project 5](#project-5-multiple-external-led)
 
 ---
 
 ### [**Challenge 2: Binary Counter**](https://create.arduino.cc/projecthub/Madhur_Bajpai/binary-counter-using-leds-2089d9)
 
+#### TODO: include my own code and circuit diagram for Binary Counter
+
+#### C2 uses the same Schematic and Circuit Diagram as [Project 5](#project-5-multiple-external-led)
+
 ---
 
-Note: All copied code, including examples that have been modified, are in the public domain. The original sources have been linked to in the headers of the sections that they appear in.
+Note: The original sources of public-domain code or project ideas that have been used have been linked to in the headers of the sections that they appear in. Additionally, all original code in this document is hereby permitted to be used as public-domain code under the Public-domain-equivalent license.
