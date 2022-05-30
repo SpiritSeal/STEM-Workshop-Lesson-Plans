@@ -9,12 +9,14 @@
 ## Resources and Materials
 
 - Internet-connected Windows computers with the following Software installed
-  - stegsolve
+  <!-- - stegsolve -->
   - python3
-  - Wireshark
+  <!-- - Wireshark -->
 - Access to the following websites and web tools
   - CyberChef
   - picoCTF
+- Paper
+- Writing Utensils
 
 ## Agenda Overview
 
@@ -42,6 +44,8 @@
 > 30 minutes
 
 1. Introduce Students to the topic of Open Source Intelligence (OSINT), the foundation of many Cyber Security Operations.
+
+<!-- TODO: Create more challenge problems -->
 
 2. Have the students attempt the following problems (WIP):
 
@@ -75,7 +79,7 @@
     - [The Numbers](https://play.picoctf.org/practice/challenge/68?category=2&page=1&search=) | Ascii numbers to text
     - [Lets Warm Up](https://play.picoctf.org/practice/challenge/22) | Hex number to text
     - [2Warm](https://play.picoctf.org/practice/challenge/86?category=5&page=1) | Convert Base 10 to Base 2
-    - [what's a net cat?](https://play.picoctf.org/practice/challenge/34) | Connect with `netcat`, 
+    - [what's a net cat?](https://play.picoctf.org/practice/challenge/34) | Connect with `netcat`
     - [Nice netcat...](https://play.picoctf.org/practice/challenge/156?page=1&solved=0) | `netcat` + Ascii numbers to text
 
 7. Provide the following resources while students solve the above problems:
@@ -86,7 +90,15 @@
 
 ### Topic 4: Intro to Forensics
 
-> 30 minutes
+> 20 minutes
+
+<!-- TODO: add more content to this section -->
+
+3. Have the students attempt the following problems:
+    - [Lookey here](https://play.picoctf.org/practice/challenge/279?category=4&page=1) | `grep` command or <kbd>Ctrl</kbd>+<kbd>F</kbd>
+    - [strings it](https://play.picoctf.org/practice/challenge/37?page=4&solved=0) | `strings` command
+    - [extensions](https://play.picoctf.org/practice/challenge/52?category=4&page=2) | `file` command
+    - [Information](https://play.picoctf.org/practice/challenge/186?page=1&solved=0) | View EXIF data
 
 ---
 
