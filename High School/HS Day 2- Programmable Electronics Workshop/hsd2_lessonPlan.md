@@ -191,6 +191,7 @@ void loop() {
 > TODO: Code, Schematics, and Wiring Diagram
 
 #### P5 Wiring Diagram
+![](image%5Chsd2_lessonPlan%5C6_LED_Arduino_bb.png)
 
 ---
 
