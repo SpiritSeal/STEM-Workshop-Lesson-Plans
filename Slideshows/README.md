@@ -5,4 +5,4 @@ I couldn't include the PowerPoint versions here due to file size restrictions, s
 ## Other Formats
 
 - [Google Drive](https://bit.ly/ASANowSTEMSlides) (Original/ Recommended Version)
-- [Powerpoint] (https://github.com/SpiritSeal/STEM-Workshop-Lesson-Plans/releases/download/eagle_project/Slideshows.zip)
+- [Powerpoint](https://github.com/SpiritSeal/STEM-Workshop-Lesson-Plans/releases/download/eagle_project/Slideshows.zip)
