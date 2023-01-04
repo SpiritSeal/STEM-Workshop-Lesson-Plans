@@ -2,6 +2,8 @@
 
 Here are the teaching notes for instructors. The notes are organized by the intended age group and then by the workshop day each was intended to be used for. Feel free to adapt any part of these slide decks to your needs.
 
+> Note: the resources in this folder are still a work in progress. For now, please refer to the [prototype lesson plan folder](https://github.com/SpiritSeal/STEM-Workshop-Lesson-Plans/tree/main/Prototype%20Lesson%20Plans)
+
 Here is a High-level overview of the Workshops and Resources in this repository:
 
 ## Workshops Series 1
