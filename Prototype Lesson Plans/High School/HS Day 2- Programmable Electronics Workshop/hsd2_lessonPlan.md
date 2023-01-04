@@ -30,17 +30,17 @@
 
 ## Projects Overview
 
-1. [Serial Monitor Hello World](#project-1-serial-monitor-hello-worldhttpsarduinogetstartedcomtutorialsarduino-hello-world)
-2. [Builtin LED Blink](#project-2-builtin-led-blinkhttpswwwarduinoccentutorialbuiltinexamplesblink)
-3. [External LED](#project-3-external-led-blinkhttpswwwarduinoccentutorialbuiltinexamplesblink)
-4. [Button-Toggle LED](#project-4-button-toggle-ledhttpsarduinogetstartedcomtutorialsarduino-button-toggle-led)
+1. [Serial Monitor Hello World](#project-1-serial-monitor-hello-world)
+2. [Builtin LED Blink](#project-2-builtin-led-blink)
+3. [External LED](#project-3-external-led-blink)
+4. [Button-Toggle LED](#project-4-button-toggle-led)
 5. [Multiple External LED](#project-5-multiple-external-led)
 6. [Multiple LED Blink](#project-6-multiple-led-blink)
 
 ### `Time-permitting Challenges`
 
-1. [Arduino LED Dice](#challenge-1-arduino-led-dicehttpscreatearduinoccprojecthubevdsled-dice-885cf1)
-2. [Binary Counter](#challenge-2-binary-counterhttpscreatearduinoccprojecthubmadhurbajpaibinary-counter-using-leds-2089d9)
+1. [Arduino LED Dice](#challenge-1-arduino-led-dice)
+2. [Binary Counter](#challenge-2-binary-counter)
 
 ## Agenda
 
@@ -191,7 +191,8 @@ void loop() {
 > TODO: Code, Schematics, and Wiring Diagram
 
 #### P5 Wiring Diagram
-![](image%5Chsd2_lessonPlan%5C6_LED_Arduino_bb.png)
+
+![Project 5 Wiring Diagram](image%5Chsd2_lessonPlan%5C6_LED_Arduino_bb.png)
 
 ---
 

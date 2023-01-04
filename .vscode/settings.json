@@ -1,9 +1,11 @@
 {
     "cSpell.words": [
         "EXIF",
+        "GPIO",
         "Lookey",
         "Microcontroller",
         "microcontrollers",
+        "mkdir",
         "MOSFET",
         "netcat",
         "OSINT",
@@ -12,6 +14,7 @@
         "PULLUP",
         "stegsolve",
         "Technopedia",
+        "Webshell",
         "Wireshark"
     ]
 }

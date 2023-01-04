@@ -94,7 +94,10 @@
 
 <!-- TODO: add more content to this section -->
 
-3. Have the students attempt the following problems:
+8. Introduce the Webshell, and go over the following basic commands
+    - ls, cd, mkdir, wget, file, cat
+
+9. Have the students attempt the following problems:
     - [Lookey here](https://play.picoctf.org/practice/challenge/279?category=4&page=1) | `grep` command or <kbd>Ctrl</kbd>+<kbd>F</kbd>
     - [strings it](https://play.picoctf.org/practice/challenge/37?page=4&solved=0) | `strings` command
     - [extensions](https://play.picoctf.org/practice/challenge/52?category=4&page=2) | `file` command

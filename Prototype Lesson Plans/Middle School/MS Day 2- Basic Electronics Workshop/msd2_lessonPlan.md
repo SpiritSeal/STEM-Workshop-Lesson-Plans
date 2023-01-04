@@ -47,7 +47,7 @@
 
 ---
 
-### [**Project 2: Variable Brightness LED Circuit**](https://tinyurl.com/2kfuqybn)
+### [**Project 2: Variable Brightness LED Circuit**](https://tinyurl.com/2ak4z9fz)
 
 ---
 
@@ -57,11 +57,11 @@
 
 [//]: # (Come back to variable Motor Circuit w/ working schema)
 
-### [**Project 3: Simple Motor Circuit**](https://tinyurl.com/2fthhunr)
+### [**Project 3: Simple Motor Circuit**](https://tinyurl.com/2a286rpg)
 
 ---
 
-7. Teach participants how **MOSFET transistors** function, and how they can control the voltage of a circuit by taking an input from another source. *[Editor's Note: I am currently researching into potentially just running the circuit in series without the MOSFET, since we will likely be using low enough Voltages to the point where burning out the Potentiometer will not be a major concern.]*
+7. Teach participants how **MOSFET transistors** function, and how they can control the voltage of a circuit by taking an input from another source.
 
 ---
 
